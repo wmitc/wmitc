@@ -3,4 +3,4 @@
 - 🤖 Applied AI researcher and Unix software developer
 - 🎓 MIT alumnus — Computer Science & Engineering
 - 📚 Finishing my final year at Georgia Tech — Cybersecurity
-- 🇺🇸 U.S. military veteran
+- :us: U.S. military veteran
